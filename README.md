@@ -9,4 +9,4 @@ de centralizar as negociações e simplificar as etapas a serem cumpridas pelo c
 ponto para efetuar o pagamento e receber um cronograma consolidado, contendo todas as informações relevantes para a realização do intercâmbio.
 
 --> Fluxograma do projeto:
-    
+    <img src= "Fluxo.jpg">
