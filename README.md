@@ -1,4 +1,4 @@
-# -------------------------------- INTERCÂMBIO CORPORATIVO --------------------------------
+# ---------------------- INTERCÂMBIO CORPORATIVO ----------------------
 
   O negócio proposto pelo grupo consiste em otimizar o processo de Intercâmbio de um colaborador requisitado pela empresa, a fim de estudar, trabalhar e obter conhecimento em alguma outra filial ou parceira e adquirir novas tecnologias para o crescimento da empresa em questão.
 
