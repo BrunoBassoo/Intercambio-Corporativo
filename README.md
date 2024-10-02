@@ -11,7 +11,7 @@
 
 --> Processos separados:
 
-  1) Processo de Banco
+  1) Processo de Pagamento
     <br>
       <img src= "BancoIndividual.png">
     <br>
