@@ -7,15 +7,34 @@
 
 --> Fluxograma do projeto:
 <br>
-    <img src= "Fluxo.jpg">
+    <img src= "ModelagemGeral.png">
 
 --> Processos separados:
 
-    1 em processo...
-    2 em processo...
-    3 em processo...
-    4 em processo...
-    5 em processo...
+    1 Processo de Banco
+    <br>
+      <img src= "BancoIndividual.png">
+    <br>
+    
+    2 Processo de Feedback
+    <br>
+      <img src= "FeedbackIndividual.png">
+    <br>
+
+    3 Processo de Hospedagem
+    <br>
+      <img src= "HospedagemIndividual.png">
+    <br>
+
+    4 Processo de Turismo
+    <br>
+      <img src= "TurismoIndividual.png">
+    <br>
+
+    5 Processo de Viagem
+    <br>
+      <img src= "ViagemIndividual.png">
+    <br>
 
  --> Requisitos do negócio:
  <br>
