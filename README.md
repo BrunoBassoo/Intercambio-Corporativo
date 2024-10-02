@@ -11,27 +11,27 @@
 
 --> Processos separados:
 
-    1 Processo de Banco
+  1) Processo de Banco
     <br>
       <img src= "BancoIndividual.png">
     <br>
     
-    2 Processo de Feedback
+  2) Processo de Feedback
     <br>
       <img src= "FeedbackIndividual.png">
     <br>
 
-    3 Processo de Hospedagem
+  3) Processo de Hospedagem
     <br>
       <img src= "HospedagemIndividual.png">
     <br>
 
-    4 Processo de Turismo
+  4) Processo de Turismo
     <br>
       <img src= "TurismoIndividual.png">
     <br>
 
-    5 Processo de Viagem
+  5) Processo de Viagem
     <br>
       <img src= "ViagemIndividual.png">
     <br>
