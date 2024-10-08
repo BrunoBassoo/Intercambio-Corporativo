@@ -2,45 +2,35 @@
 
   O negócio proposto pelo grupo consiste em otimizar o processo de Intercâmbio de um colaborador requisitado pela empresa, a fim de estudar, trabalhar e obter conhecimento em alguma outra filial ou parceira e adquirir novas tecnologias para o crescimento da empresa em questão.
 
---> Descrição dos projetos:
-    A empresa assumirá a responsabilidade de estabelecer contato com as diversas agências de viagem, hospedagem e turismo envolvidas no processo, com o objetivo de centralizar as negociações e simplificar as etapas a serem cumpridas pelo cliente. Desta forma, espera-se que o contratante precise apenas definir um único ponto para efetuar o pagamento e receber um cronograma consolidado, contendo todas as informações relevantes para a realização do intercâmbio.
+## ➔ Descrição dos projetos:
+   A empresa assumirá a responsabilidade de estabelecer contato com as diversas agências de viagem, hospedagem e turismo envolvidas no processo, com o objetivo de centralizar as negociações e simplificar as etapas a serem cumpridas pelo cliente. Desta forma, espera-se que o contratante precise apenas definir um único ponto para efetuar o pagamento e receber um cronograma consolidado, contendo todas as informações relevantes para a realização do intercâmbio.
 
---> Fluxograma do projeto:
-<br>
-    <img src= "ModelagemGeral.png">
+## ➔ Fluxograma do projeto:
+  <img src= "ModelagemGeral.png">
 
---> Processos separados:
+## ➔ Processos separados:
 
-  1) Processo de Pagamento
-    <br>
-      <img src= "BancoIndividual.png">
-    <br>
+
+ ### 1) Processo de Pagamento
+  <img src= "BancoIndividual.png">
     
-  2) Processo de Feedback
-    <br>
-      <img src= "FeedbackIndividual.png">
-    <br>
+ ### 2) Processo de Feedback
+  <img src= "FeedbackIndividual.png">
 
-  3) Processo de Hospedagem
-    <br>
-      <img src= "HospedagemIndividual.png">
-    <br>
+ ### 3) Processo de Hospedagem
+  <img src= "HospedagemIndividual.png">
 
-  4) Processo de Turismo
-    <br>
-      <img src= "TurismoIndividual.png">
-    <br>
+ ### 4) Processo de Turismo
+  <img src= "TurismoIndividual.png">
 
-  5) Processo de Viagem
-    <br>
-      <img src= "ViagemIndividual.png">
-    <br>
+ ### 5) Processo de Viagem
+  <img src= "ViagemIndividual.png">
 
- --> Requisitos do negócio:
- <br>
-     <img src="Requisitos.jpg">
+## ➔ Requisitos do negócio:
+    
+  <img src="Requisitos.jpg">
 
---> Regras de negócio:
+## ➔ Regras de negócio:
 
     1) Uma empresa só poderá ser cadastrada se houver CNPJ;
     2) Um funcionário só poderá ser cadastrado se houver CPF;
