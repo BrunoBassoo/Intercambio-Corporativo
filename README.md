@@ -1,4 +1,4 @@
- <h1><u> INTERCÂMBIO CORPORATIVO</u> </h1>
+# INTERCÂMBIO CORPORATIVO 
 
   O negócio proposto pelo grupo consiste em otimizar o processo de Intercâmbio de um colaborador requisitado pela empresa, a fim de estudar, trabalhar e obter conhecimento em alguma outra filial ou parceira e adquirir novas tecnologias para o crescimento da empresa em questão.
 
@@ -28,16 +28,43 @@
 
 
 ## ➔ Modelo de Software:
+<p> Optamos por implementar o modelo ágil Extreme Programming (XP) devido a várias razões que se alinham perfeitamente com as necessidades e características deste tipo de iniciativa.
+
+Primeiramente, o ambiente de intercâmbio corporativo é frequentemente dinâmico e sujeito a mudanças rápidas. O XP, com sua abordagem iterativa e incremental, nos permite adaptar rapidamente o desenvolvimento às novas demandas e feedbacks dos stakeholders. Isso é crucial, pois as necessidades das empresas e as condições do mercado podem mudar rapidamente, e precisamos ser ágeis para responder a essas mudanças.
+
+Além disso, a ênfase do XP em comunicação constante e colaboração entre a equipe de desenvolvimento e os representantes da empresa contratante garante que os requisitos sejam compreendidos e atendidos de forma eficaz. A programação em par e a integração contínua promovem a troca de conhecimentos e a identificação precoce de problemas, resultando em um produto de alta qualidade que atende às expectativas do cliente.
+
+Outro ponto importante é o desenvolvimento baseado em testes (TDD), que nos permite garantir a qualidade do software desde o início do projeto. Ao escrever testes antes do código, conseguimos minimizar regressões e garantir que cada funcionalidade esteja alinhada com os requisitos, aumentando a confiança no produto final.
+
+Por fim, a filosofia do XP de priorizar simplicidade e design refatorado nos ajuda a manter o código limpo e fácil de entender, facilitando futuras manutenções e adaptações. Isso é essencial em um projeto que pode evoluir ao longo do tempo e que requer agilidade na implementação de novas funcionalidades.
+
+Em resumo, a escolha do modelo ágil XP se justifica pela sua capacidade de promover flexibilidade, colaboração e qualidade, características fundamentais para o sucesso do nosso projeto de intercâmbio corporativo. </p>
 
 ## ➔ Stakeholders:
+
+### 1) Stakeholders Internos:
+**• Equipe de Desenvolvimento :** Os programadores e desenvolvedores responsáveis por criar o sistema ou plataforma de intercâmbio.
+ 
+**• Gestores de Projetos:** Profissionais que supervisionam o andamento do projeto, garantindo que os prazos e objetivos sejam atendidos.
+
+**• Departamentos de Marketing e Vendas:** Equipes que promovem o serviço de intercâmbio e se comunicam com os clientes. 
+
+**• Equipe de Atendimento ao Cliente:** Profissionais que interagem diretamente com os usuários, resolvendo dúvidas e problemas.
+
+### 2) Stakeholders Externos:
+**• Clientes/Empresas Participantes:** Organizações que utilizam o serviço de intercâmbio e têm expectativas sobre suas funcionalidades e benefícios.
+ 
+**• Fornecedores de Tecnologia:** Empresas que fornecem ferramentas, software ou infraestrutura necessária para o projeto.
+
+**• Reguladores:** Entidades governamentais que impõem regulamentações sobre intercâmbio e comércio, assegurando conformidade legal.
+
+**• Investidores:** Pessoas ou entidades que financiam o projeto e esperam retornos financeiros.
+
+**• Parceiros Estratégicos:** Outras empresas ou organizações que colaboram no projeto, como agências de intercâmbio ou instituições educacionais. </p>
 
 ## ➔ Requisitos do negócio:
     
   <img src="Requisitos.jpg">
-
-
-
-
 
 ## ➔ Regras de negócio:
 
