@@ -1,3 +1,5 @@
+
+
 # INTERCÂMBIO CORPORATIVO 
 
   O negócio proposto pelo grupo consiste em otimizar o processo de Intercâmbio de um colaborador requisitado pela empresa, a fim de estudar, trabalhar e obter conhecimento em alguma outra filial ou parceira e adquirir novas tecnologias para o crescimento da empresa em questão.
@@ -6,25 +8,26 @@
    A empresa assumirá a responsabilidade de estabelecer contato com as diversas agências de viagem, hospedagem e turismo envolvidas no processo, com o objetivo de centralizar as negociações e simplificar as etapas a serem cumpridas pelo cliente. Desta forma, espera-se que o contratante precise apenas definir um único ponto para efetuar o pagamento e receber um cronograma consolidado, contendo todas as informações relevantes para a realização do intercâmbio.
 
 ## ➔ Fluxograma do projeto:
-  <img src= "ModelagemGeral.png">
+
+> <img src= "ModelagemGeral.png">
 
 ## ➔ Processos separados:
 
 
  ### 1) Processo de Pagamento
-  <img src= "BancoIndividual.png">
+ > <img src= "BancoIndividual.png">
     
  ### 2) Processo de Feedback
-  <img src= "FeedbackIndividual.png">
+ > <img src= "FeedbackIndividual.png">
 
  ### 3) Processo de Hospedagem
-  <img src= "HospedagemIndividual.png">
+ > <img src= "HospedagemIndividual.png">
 
  ### 4) Processo de Turismo
-  <img src= "TurismoIndividual.png">
+ > <img src= "TurismoIndividual.png">
 
  ### 5) Processo de Viagem
-  <img src= "ViagemIndividual.png">
+ > <img src= "ViagemIndividual.png">
 
 
 ## ➔ Modelo de Software:
@@ -53,7 +56,7 @@ Em resumo, a escolha do modelo ágil XP se justifica pela sua capacidade de prom
 
 ### 2) Stakeholders Externos:
 **• Clientes/Empresas Participantes:** Organizações que utilizam o serviço de intercâmbio e têm expectativas sobre suas funcionalidades e benefícios.
- 
+
 **• Fornecedores de Tecnologia:** Empresas que fornecem ferramentas, software ou infraestrutura necessária para o projeto.
 
 **• Reguladores:** Entidades governamentais que impõem regulamentações sobre intercâmbio e comércio, assegurando conformidade legal.
@@ -64,7 +67,7 @@ Em resumo, a escolha do modelo ágil XP se justifica pela sua capacidade de prom
 
 ## ➔ Requisitos do negócio:
     
-  <img src="Requisitos.jpg">
+ > <img src="Requisitos.jpg">
 
 ## ➔ Regras de negócio:
 
