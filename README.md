@@ -1,6 +1,6 @@
 
 
-# INTERCÂMBIO CORPORATIVO 
+# COORPORATRAVEL: INTERCÂMBIO CORPORATIVO
 
   O negócio proposto pelo grupo consiste em otimizar o processo de Intercâmbio de um colaborador requisitado pela empresa, a fim de estudar, trabalhar e obter conhecimento em alguma outra filial ou parceira e adquirir novas tecnologias para o crescimento da empresa em questão.
 
@@ -113,6 +113,29 @@ nos intervalo de dias disponíveis para enfim finalizar com o pagamento.</p>
 
 <p>Como Empresa de turismo, quando eu for solicitado quero verificar um guia especialista para designar os cliente aos melhores pontos turísticos daquela região, onde o mesmo irá agendar as visitas aos clientes afim de agendar o turismo. </p>
 
+
+### ➔ Protótipos
+
+### 1) Página Inicial
+ > <img src= "BancoIndividual.png">
+    
+ ### 2) Agendar Intercâmbio
+ > <img src= "FeedbackIndividual.png">
+
+ ### 3) Página de pagamento
+ > <img src= "HospedagemIndividual.png">
+
+ ### 4) Cadastrar um novo intercambista
+ > <img src= "TurismoIndividual.png">
+
+ ### 5) Empresas parceiras
+ > <img src= "ViagemIndividual.png">
+
+ ### 6) Guia de Turismo gratuito
+ > <img src= "ViagemIndividual.png">
+
+ ### 7) Quem somos nós
+ > <img src= "ViagemIndividual.png">
    
 
 
