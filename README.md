@@ -87,3 +87,34 @@ Em resumo, a escolha do modelo ágil XP se justifica pela sua capacidade de prom
     14) O sistema deve gerar um checklist de documentos para o colaborador.
     15) A pesquisa de satisfação deve ser enviada ao colaborador após o término do intercâmbio.
     16) Os resultados da pesquisa devem ser analisados e utilizados para aprimorar o processo de intercâmbio.
+
+## ➔ Histórias de usuários
+
+### 1. Agência de viagem:
+
+<p>Como agência de viagem eu quero verificar a disponibilidade do voo(ida e volta) para que consiga fazer a reserva pedida.</p>
+
+### 2. Trivago:
+
+<p>Como funcionário da agência de hotéis eu quero verificar a acessibilidade dos quartos para que consiga fazer a reserva requisitada, visibilizando os preços.</p>
+
+
+### 3. Empresa Contratante: 
+
+<p>Como empresa contratante eu quero definir o destino do meu usuário solicitando o voo para o local desejado, e assim escolhendo a data. Após isso quero buscar hospedagem 
+nos intervalo de dias disponíveis para enfim finalizar com o pagamento.</p>
+
+#### 4. C6 Bank:
+
+<p>Como C6 Bank, com as informações retiradas da Agência de Viagem e de Agência de hospedagem quero emitir um boleto para que a empresa contratante do serviço de intercâmbio corporativo pague, e assim continue o negócio. </p>
+
+
+### 5. Empresa de Turismo
+
+<p>Como Empresa de turismo, quando eu for solicitado quero verificar um guia especialista para designar os cliente aos melhores pontos turísticos daquela região, onde o mesmo irá agendar as visitas aos clientes afim de agendar o turismo. </p>
+
+   
+
+
+
+
