@@ -117,25 +117,25 @@ nos intervalo de dias disponíveis para enfim finalizar com o pagamento.</p>
 ### ➔ Protótipos
 
 ### 1) Página Inicial
- > <img src= "BancoIndividual.png">
+ > <img src= "paginaInicial.png">
     
  ### 2) Agendar Intercâmbio
- > <img src= "FeedbackIndividual.png">
+ > <img src= "2.png">
 
  ### 3) Página de pagamento
- > <img src= "HospedagemIndividual.png">
+ > <img src= "3.png">
 
  ### 4) Cadastrar um novo intercambista
- > <img src= "TurismoIndividual.png">
+ > <img src= "4.png">
 
  ### 5) Empresas parceiras
- > <img src= "ViagemIndividual.png">
+ > <img src= "5.png">
 
  ### 6) Guia de Turismo gratuito
- > <img src= "ViagemIndividual.png">
+ > <img src= "6.png">
 
  ### 7) Quem somos nós
- > <img src= "ViagemIndividual.png">
+ > <img src= "7.png">
    
 
 
