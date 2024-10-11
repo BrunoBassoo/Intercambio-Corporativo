@@ -120,25 +120,25 @@ nos intervalo de dias disponíveis para enfim finalizar com o pagamento.</p>
  > <img src= "1.png">
     
  ### 2) Cadastrar Empresa
- > <img src= ".png">
+ > <img src= "2.png">
 
  ### 3) Cadastrar Intercambista
- > <img src= ".png">
+ > <img src= "3.png">
 
  ### 4) Agendar Intercâmbio
- > <img src= ".png">
+ > <img src= "4.png">
 
  ### 5) Escolher empresa hospedeira
- > <img src= ".png">
+ > <img src= "5.png">
 
  ### 6) Comprar passagens
- > <img src= ".png">
+ > <img src= "6.png">
 
  ### 7) Escolher hospedagem
- > <img src= ".png">
+ > <img src= "7.png">
  
  ### 8) Opções de turismo
- > <img src= ".png">
+ > <img src= "8.png">
  
  ### 9) Gerar boleto
  > <img src= "9.png">
@@ -147,10 +147,10 @@ nos intervalo de dias disponíveis para enfim finalizar com o pagamento.</p>
  > <img src= "10.png">
  
  ### 11) Página com informações sobre o Guia Turístico
- > <img src= "7.png">
+ > <img src= "11.png">
 
  ### 12) Quem somos nós
- > <img src= "7.png">
+ > <img src= "12.png">
 
 
 
