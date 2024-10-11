@@ -119,24 +119,38 @@ nos intervalo de dias disponíveis para enfim finalizar com o pagamento.</p>
 ### 1) Página Inicial
  > <img src= "paginaInicial.png">
     
- ### 2) Agendar Intercâmbio
+ ### 2) Cadastrar Empresa
  > <img src= "2.png">
 
- ### 3) Página de pagamento
+ ### 3) Cadastrar Intercambista
  > <img src= "3.png">
 
- ### 4) Cadastrar um novo intercambista
+ ### 4) Agendar Intercâmbio
  > <img src= "4.png">
 
- ### 5) Empresas parceiras
+ ### 5) Escolher empresa hospedeira
  > <img src= "5.png">
 
- ### 6) Guia de Turismo gratuito
+ ### 6) Comprar passagens
  > <img src= "6.png">
 
- ### 7) Quem somos nós
+ ### 7) Escolher hospedagem
  > <img src= "7.png">
-   
+ 
+ ### 8) Opções de turismo
+ > <img src= "8.png">
+ 
+ ### 9) Gerar boleto
+ > <img src= "9.png">
+ 
+ ### 10) Empresas parceiras
+ > <img src= "10.png">
+ 
+ ### 11) Página com informações sobre o Guia Turístico
+ > <img src= "7.png">
+
+ ### 12) Quem somos nós
+ > <img src= "7.png">
 
 
 
