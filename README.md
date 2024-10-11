@@ -117,7 +117,7 @@ nos intervalo de dias disponíveis para enfim finalizar com o pagamento.</p>
 ### ➔ Protótipos
 
 ### 1) Página Inicial
- > <img src= "paginaInicial.png">
+ > <img src= "1.png">
     
  ### 2) Cadastrar Empresa
  > <img src= "2.png">
