@@ -94,20 +94,18 @@ Em resumo, a escolha do modelo ágil XP se justifica pela sua capacidade de prom
 
 <p>Como agência de viagem eu quero verificar a disponibilidade do voo(ida e volta) para que consiga fazer a reserva pedida.</p>
 
-### 2. Trivago:
+### 2. Agência de hospedagem:
 
 <p>Como funcionário da agência de hotéis eu quero verificar a acessibilidade dos quartos para que consiga fazer a reserva requisitada, visibilizando os preços.</p>
-
 
 ### 3. Empresa Contratante: 
 
 <p>Como empresa contratante eu quero definir o destino do meu usuário solicitando o voo para o local desejado, e assim escolhendo a data. Após isso quero buscar hospedagem 
 nos intervalo de dias disponíveis para enfim finalizar com o pagamento.</p>
 
-### 4. C6 Bank:
+### 4. Banco:
 
-<p>Como C6 Bank, com as informações retiradas da Agência de Viagem e de Agência de hospedagem quero emitir um boleto para que a empresa contratante do serviço de intercâmbio corporativo pague, e assim continue o negócio. </p>
-
+<p>Como banco, com as informações retiradas da Agência de Viagem e de Agência de hospedagem quero emitir um boleto para que a empresa contratante do serviço de intercâmbio corporativo pague, e assim continue o negócio. </p>
 
 ### 5. Empresa de Turismo
 
@@ -152,6 +150,28 @@ nos intervalo de dias disponíveis para enfim finalizar com o pagamento.</p>
  ### 12) Quem somos nós
  > <img src= "12.png">
 
+ ## ➔ Diagrama de Casos de Uso
 
+ ### Principais Atores
 
+ 1.	Empresa – responsável por agendar o intercâmbio.
+ 
+ 2.	Agência de viagem – as agências que fornecem pacotes e informações de viagem.
+ 
+ 3.	Agência de Hospedagem – empresas que disponibilizam hospedagem.
+ 
+ 4.	Agência de Turismo – fornecedoras de serviços turísticos e passeios.
+ 
+ 5.  Banco - intermedia o pagamento.
 
+ ### Casos de Uso
+
+ 1.	Consultar Pacotes de Intercâmbio – a empresa acessa as opções de intercâmbio disponíveis.
+ 
+ 2.	Solicitar Orçamento Consolidado – o banco centraliza orçamentos de todas as agências em um documento.
+ 
+ 3.	Efetuar Pagamento Único – a empresa realiza um pagamento único pela transação consolidada.
+ 
+ 4.	Negociar com Agências – a empresa realiza a comunicação com agências através do software para obter preços e disponibilidade.
+ 
+ 5.	Atualizar Informações de Pacotes – as agências de viagem, hospedagem e turismo podem atualizar os dados dos pacotes disponíveis.
