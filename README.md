@@ -104,7 +104,7 @@ Em resumo, a escolha do modelo ágil XP se justifica pela sua capacidade de prom
 <p>Como empresa contratante eu quero definir o destino do meu usuário solicitando o voo para o local desejado, e assim escolhendo a data. Após isso quero buscar hospedagem 
 nos intervalo de dias disponíveis para enfim finalizar com o pagamento.</p>
 
-#### 4. C6 Bank:
+### 4. C6 Bank:
 
 <p>Como C6 Bank, com as informações retiradas da Agência de Viagem e de Agência de hospedagem quero emitir um boleto para que a empresa contratante do serviço de intercâmbio corporativo pague, e assim continue o negócio. </p>
 
