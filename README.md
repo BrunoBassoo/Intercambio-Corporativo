@@ -107,7 +107,7 @@ nos intervalo de dias disponíveis para enfim finalizar com o pagamento.</p>
 
 <p>Como banco, com as informações retiradas da Agência de Viagem e de Agência de hospedagem quero emitir um boleto para que a empresa contratante do serviço de intercâmbio corporativo pague, e assim continue o negócio. </p>
 
-### 5. Empresa de Turismo
+### 5. Empresa de Turismo:
 
 <p>Como Empresa de turismo, quando eu for solicitado quero verificar um guia especialista para designar os cliente aos melhores pontos turísticos daquela região, onde o mesmo irá agendar as visitas aos clientes afim de agendar o turismo. </p>
 
@@ -154,24 +154,35 @@ nos intervalo de dias disponíveis para enfim finalizar com o pagamento.</p>
 
  ### Principais Atores
 
- 1.	Empresa – responsável por agendar o intercâmbio.
- 
- 2.	Agência de viagem – as agências que fornecem pacotes e informações de viagem.
- 
- 3.	Agência de Hospedagem – empresas que disponibilizam hospedagem.
- 
- 4.	Agência de Turismo – fornecedoras de serviços turísticos e passeios.
- 
- 5.  Banco - intermedia o pagamento.
+1.	Empresa: interessada pelo intercâmbio corporativo;
+
+2.	Agência de viagem: as agências que fornecem passagens de avião para realizar o intercâmbio;
+
+3.	Agência de Hospedagem: empresas que disponibilizam hospedagem;
+
+4.	Agência de Turismo: fornecedoras de serviços turísticos e passeios opcionais;
+
+5.  Banco: intermedia o pagamento de todos os serviços para a empresa;
+   
+6.  Intercambista: a pessoa que irá realizar o intercâmbio corporativo.
 
  ### Casos de Uso
 
- 1.	Consultar Pacotes de Intercâmbio – a empresa acessa as opções de intercâmbio disponíveis.
+1.	Consultar Pacotes de Intercâmbio: a empresa acessa as opções de intercâmbio disponíveis;
+
+2.	Buscar Localização e Selecionar Voo: a empresa seleciona o destino e escolhe um voo com uma das agências de viagem parceiras;
+
+3.  Reservar Hospedagem: e empresa escolhe o período e reserva com uma das agências de hospedagem parceiras;
+
+4.  Selecionar Atividades Turísticas: a empresa escolhe se deseja passeios e atividades de turismo com uma das agências de turismo parceiras;
+
+5.  Negociar com Agências: a empresa realiza a comunicação com agências através do software para obter preços e disponibilidade;
+
+6.	Centralizar Orçamentos: o banco centraliza orçamentos de todas as agências em um documento;
+
+7.  Efetuar Pagamento Único: a empresa efetua o pagamento de todos os serviços solicitados de uma vez através do banco;
+
  
- 2.	Solicitar Orçamento Consolidado – o banco centraliza orçamentos de todas as agências em um documento.
- 
- 3.	Efetuar Pagamento Único – a empresa realiza um pagamento único pela transação consolidada.
- 
- 4.	Negociar com Agências – a empresa realiza a comunicação com agências através do software para obter preços e disponibilidade.
- 
- 5.	Atualizar Informações de Pacotes – as agências de viagem, hospedagem e turismo podem atualizar os dados dos pacotes disponíveis.
+
+
+
