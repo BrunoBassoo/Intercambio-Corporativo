@@ -182,6 +182,6 @@ nos intervalo de dias disponíveis para enfim finalizar com o pagamento.</p>
 
 ## Modelo de Domínio
 
-<img src = 'imagens/CoorporatravelBranco.jpg'>
+<img src = 'imagens/CoorporatravelBranco.drawio.png'>
 
 
