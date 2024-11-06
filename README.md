@@ -1,5 +1,3 @@
-
-
 # COORPORATRAVEL: INTERCÂMBIO CORPORATIVO
 
   O negócio proposto pelo grupo consiste em otimizar o processo de Intercâmbio de um colaborador requisitado pela empresa, a fim de estudar, trabalhar e obter conhecimento em alguma outra filial ou parceira e adquirir novas tecnologias para o crescimento da empresa em questão.
@@ -9,25 +7,25 @@
 
 ## ➔ Fluxograma do projeto:
 
-> <img src= "ModelagemGeral.png">
+> <img src= "imagens/ModelagemGeral.png">
 
 ## ➔ Processos separados:
 
 
  ### 1) Processo de Pagamento
- > <img src= "BancoIndividual.png">
+ > <img src= "imagens/BancoIndividual.png">
     
  ### 2) Processo de Feedback
- > <img src= "FeedbackIndividual.png">
+ > <img src= "imagens/FeedbackIndividual.png">
 
  ### 3) Processo de Hospedagem
- > <img src= "HospedagemIndividual.png">
+ > <img src= "imagens/HospedagemIndividual.png">
 
  ### 4) Processo de Turismo
- > <img src= "TurismoIndividual.png">
+ > <img src= "imagens/TurismoIndividual.png">
 
  ### 5) Processo de Viagem
- > <img src= "ViagemIndividual.png">
+ > <img src= "imagens/ViagemIndividual.png">
 
 
 ## ➔ Modelo de Software:
@@ -67,7 +65,7 @@ Em resumo, a escolha do modelo ágil XP se justifica pela sua capacidade de prom
 
 ## ➔ Requisitos do negócio:
     
- > <img src="Requisitos.jpg">
+ > <img src="imagens/Requisitos.jpg">
 
 ## ➔ Regras de negócio:
 
@@ -115,40 +113,40 @@ nos intervalo de dias disponíveis para enfim finalizar com o pagamento.</p>
 ## ➔ Protótipos
 
 ### 1) Página Inicial
- > <img src= "1.png">
+ > <img src= "imagens/1.png">
     
  ### 2) Cadastrar Empresa
- > <img src= "2.png">
+ > <img src= "imagens/2.png">
 
  ### 3) Cadastrar Intercambista
- > <img src= "3.png">
+ > <img src= "imagens/3.png">
 
  ### 4) Agendar Intercâmbio
- > <img src= "4.png">
+ > <img src= "imagens/4.png">
 
  ### 5) Escolher empresa hospedeira
- > <img src= "5.png">
+ > <img src= "imagens/5.png">
 
  ### 6) Comprar passagens
- > <img src= "6.png">
+ > <img src= "imagens/6.png">
 
  ### 7) Escolher hospedagem
- > <img src= "7.png">
+ > <img src= "imagens/7.png">
  
  ### 8) Opções de turismo
- > <img src= "8.png">
+ > <img src= "imagens/8.png">
  
  ### 9) Gerar boleto
- > <img src= "9.png">
+ > <img src= "imagens/9.png">
  
  ### 10) Empresas parceiras
- > <img src= "10.png">
+ > <img src= "imagens/10.png">
  
  ### 11) Página com informações sobre o Guia Turístico
- > <img src= "11.png">
+ > <img src= "imagens/11.png">
 
  ### 12) Quem somos nós
- > <img src= "12.png">
+ > <img src= "imagens/12.png">
 
  ## ➔ Diagrama de Casos de Uso
 
@@ -182,7 +180,8 @@ nos intervalo de dias disponíveis para enfim finalizar com o pagamento.</p>
 
 7.  Efetuar Pagamento Único: a empresa efetua o pagamento de todos os serviços solicitados de uma vez através do banco;
 
- 
+## Modelo de Domínio
 
+<img src = 'imagens/CoorporatravelBranco.jpg'>
 
 
