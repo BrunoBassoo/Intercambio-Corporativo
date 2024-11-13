@@ -65,9 +65,7 @@ Em resumo, a escolha do modelo ágil XP se justifica pela sua capacidade de prom
 
 ## ➔ Requisitos do negócio:
     
- > <img src="imagens/RequisitosFuncionais.jpg">
-
- > <img src="imagens/RequisitosNaoFuncionais.jpg">
+ > <img src="imagens/Requisitos.jpg">
 
 ## ➔ Regras de negócio:
 
