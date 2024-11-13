@@ -166,19 +166,7 @@ nos intervalo de dias disponíveis para enfim finalizar com o pagamento.</p>
 
  ### Casos de Uso
 
-1.	Consultar Pacotes de Intercâmbio: a empresa acessa as opções de intercâmbio disponíveis;
-
-2.	Buscar Localização e Selecionar Voo: a empresa seleciona o destino e escolhe um voo com uma das agências de viagem parceiras;
-
-3.  Reservar Hospedagem: e empresa escolhe o período e reserva com uma das agências de hospedagem parceiras;
-
-4.  Selecionar Atividades Turísticas: a empresa escolhe se deseja passeios e atividades de turismo com uma das agências de turismo parceiras;
-
-5.  Negociar com Agências: a empresa realiza a comunicação com agências através do software para obter preços e disponibilidade;
-
-6.	Centralizar Orçamentos: o banco centraliza orçamentos de todas as agências em um documento;
-
-7.  Efetuar Pagamento Único: a empresa efetua o pagamento de todos os serviços solicitados de uma vez através do banco;
+> <img src= "imagens/casos_de_uso.png">
 
 ## Modelo de Domínio
 
